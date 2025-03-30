@@ -25,3 +25,9 @@
   <img src='https://github-readme-stats.vercel.app/api?username=therealnicrass&show_icons=true&theme=great-gatsby&hide_rank=true&hide_border=true' >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=therealnicrass&theme=great-gatsby&hide_border=true" >
 </p>
+
+
+---
+
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=Nicrass04&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
