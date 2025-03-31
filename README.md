@@ -8,10 +8,6 @@
 
 <div align="center">
 
- 🔭 I’m currently working on **Creating own OS**
-
- 🌱 I’m currently learning **C#**
-
  </div>
 <br/>
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
@@ -19,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=java,c,cpp" />
     <br>
     <img src="https://skillicons.dev/icons?i=mongodb,idea,github" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=postgresql,typescript" />
 </div>
 <h1></h1>
 <p align="center" >
