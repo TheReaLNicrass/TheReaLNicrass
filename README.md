@@ -1,9 +1,3 @@
-<h1 align="center">
-    <div align="center">
-    <a align="center" href="https://discord.com/users/469194684611297282/"><img align="center" src="https://discord.c99.nl/widget/theme-4/469194684611297282.png"></a>
-</div>
-
-</h1>
 <h3 align="center">A computer science student from Germany</h3>
 
 <div align="center">
