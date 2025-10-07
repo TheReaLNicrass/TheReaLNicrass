@@ -11,8 +11,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,idea,github" />
     <br>
     <img src="https://skillicons.dev/icons?i=postgresql,typescript" />
-    <br>
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5135324" style='border:none;'></img>
 </div>
 <h1></h1>
 <p align="center" >
